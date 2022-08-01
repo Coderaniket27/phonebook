@@ -16,7 +16,7 @@ export function allContactsReducer(state = [
     {
         id: 2,
         name: "Yuvi Chahal",
-        mobile: "9999988999",
+        mobile: "99999899",
         email: "yuvi@indiancricketteam.com",
         isFav: false
     },
